@@ -91,6 +91,7 @@
 						</div>
 					</div>
 				</div>
+<!-- //>>>>>>> refs/remotes/origin/master -->
 			</div>
 		</article>
 
@@ -114,6 +115,7 @@
 
 
 		<article>
+
 			<div class="text" >
 				
 				<div id="u_qalist" >
@@ -126,6 +128,7 @@
 				</ul>
 			
 				</div>
+
 			</div>
 		</article>
 
@@ -155,7 +158,6 @@
 
 	<script type='text/javascript'>
 	$(document).ready(function() {
-
 		$('#calendar').fullCalendar({
 			theme: true,
 			header: {

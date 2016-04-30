@@ -22,7 +22,7 @@
 <link rel="stylesheet"	href="https://cdnjs.cloudflare.com/ajax/libs/rainbow/1.2.0/themes/github.css">
 <link rel="stylesheet"	href="../resources/bootstrap-tagsinput-master/examples/assets/app.css">
 
-<link rel="stylesheet" href="assets/css/newboard.css" />
+<link rel="stylesheet" href="../assets/css/newboard.css" />
 
 <script	src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 <script	src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
